@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming. Specially python and django
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on back-end of websites
-- 📫 How to reach me : Instagram : pouyalj2000 , Telegram : @pouyalj2000
+- 📫 How to reach me : Instagram : https://instagram.com/pouyalj2000 , Telegram : https://t.me/pouyalj2000
 
 <!---
 PouyaBaniadam2000/PouyaBaniadam2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
